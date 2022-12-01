@@ -42,7 +42,7 @@
 ## Feel Free for Get in Touch with Me 🤝 
 <p align="left">
 <a href="https://davadaviar.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-davadaviar.github.io-blue?style=for-the-badge&logo=google-chrome&color=6366f1&logoColor=6366f1"></a>
-<a href="linkedin.com/in/dava-daviar-saputra-116a44221?"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dava--daviar--saputra-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2"></a>
+<a href="https://linkedin.com/in/dava-daviar-saputra-116a44221?"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dava--daviar--saputra-blue?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2"></a>
 <a href="https://www.instagram.com/davadaviarsaputra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-davadaviarsaputra-blue?style=for-the-badge&logo=instagram&color=E4405F&logoColor=E4405F"></a>
 <a href="mailto:davadaviarsaputra2345@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davadaviarsaputra2345@gmail.com-blue?style=for-the-badge&logo=gmail&color=EA4335&logoColor=EA4335"></a>
 </p>
