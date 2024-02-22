@@ -1,9 +1,7 @@
 # Hello Fellas, I'm Daviar 👋 ...
 
 ## About Me 😃
-- I am an undergraduate student at State University of Surabaya on Educational Technology Information major
-- I have interest on art, design, science & technology
-- And now, I still learn about user interface design & programming especially web development with Javascript
+2+ years of experienced on Front End Web Development and still learn Flutter Dev to create beautiful mobile UI Apps.
 
 ## My Tech Stack 🧑‍💻📱⚙️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
